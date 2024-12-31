@@ -11,5 +11,4 @@ Script:
       Advanced pipeline for S4
 
 
-Before running the script:
-  Need the access to APIs
+**Before executing the script, API access is required.**
