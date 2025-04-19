@@ -1,8 +1,8 @@
 # Enhance_Video_Presentations
 
 Folder Introduction:
-  - Original Videos 2024DEC: Input videos
-  - Enhanced Videos 2024DEC: Output videos
+  - Original Videos: Input videos
+  - Enhanced Videos: Output videos
 
 Script:
   - V-SLOPE-Standard.ipynb ---- Standard pipeline for V1, V2, V3
